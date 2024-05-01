@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbXD8901
 - 👀 I’m interested in "Being Curious"  
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Projects of Data Analysis
 - 📫 How to reach me ... abentp0127@gmail.com
 
