@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek Deshmukh [AbD]
 - 👀 I’m interested in "Being Curious"  
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate on Projects of Data Analysis/Science.
 - 📫 How to reach me ... abentp0127@gmail.com
